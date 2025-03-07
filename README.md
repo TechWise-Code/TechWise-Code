@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**TechWise-Code/TechWise-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about all things Python, data science, and the fascinating world of machine and deep learning.
 
-Here are some ideas to get you started:
+## What I'm Up To 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Diving deep into Python, C++, PyTorch, and NumPy.
+* Currently on a learning adventure with C++, Git, CUDA, computer vision (CV), and natural language processing (NLP). I'm also brushing up on algorithms and data structures – because why not?
+* Sharing my LeetCode solutions.
+* Keeping track of my coding projects (because organization is key).
+* Always open to collaborations!
+
+## My Projects 🛠️
+
+* **Object Detection Algorithms:** I've implemented R-CNN, Fast R-CNN, Faster R-CNN, and YOLOv3 from scratch. Yes, from scratch! It was a wild ride, but totally worth it.
+* **Language Models for Math Questions:** I've trained and fine-tuned language models to solve math questions at an 8th-grade level. It made my GPU go crazy.
+* **Deep Learning Projects:** Exploring various deep learning projects, pushing the boundaries of what's possible.
+
+## LeetCode Adventures 🧗
+
+* I regularly publish my LeetCode solutions. If you're stuck on a problem, maybe my solution can help. Or maybe you can help me improve mine!
+
+## Outside the Code 📚
+
+When I'm not coding, I'll be:
+
+* Lost in a good book.
+* Wrestling with math problems (for fun, I swear!).
+* Probably coding some more...
+
+Thanks for stopping by! Happy coding! 💻✨
