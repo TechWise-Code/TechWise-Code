@@ -19,5 +19,6 @@ Welcome to my GitHub profile! I'm passionate about all things Python, data scien
 ## LeetCode Adventures 🧗
 
 * I regularly publish my LeetCode solutions. If you're stuck on a problem, maybe my solution can help. Or maybe you can help me improve mine!
+* C++ solutions coming soon, stay tuned!
 
 Thanks for stopping by! Happy coding! 💻✨
