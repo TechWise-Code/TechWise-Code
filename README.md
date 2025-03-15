@@ -20,12 +20,4 @@ Welcome to my GitHub profile! I'm passionate about all things Python, data scien
 
 * I regularly publish my LeetCode solutions. If you're stuck on a problem, maybe my solution can help. Or maybe you can help me improve mine!
 
-## Outside the Code 📚
-
-When I'm not coding, I'll be:
-
-* Lost in a good book.
-* Wrestling with math problems (for fun, I swear!).
-* Probably coding some more...
-
 Thanks for stopping by! Happy coding! 💻✨
